@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Module6Assignment\Module6Assignment\bin\Debug\Module6Assignment.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Module6Assignment\Module6Assignment\bin\Debug\Module6Assignment.exe
+\\mac\home\documents\visual studio 2015\Projects\Module6Assignment\Module6Assignment\bin\Debug\Module6Assignment.pdb
+\\mac\home\documents\visual studio 2015\Projects\Module6Assignment\Module6Assignment\obj\Debug\Module6Assignment.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Module6Assignment\Module6Assignment\obj\Debug\Module6Assignment.exe
+\\mac\home\documents\visual studio 2015\Projects\Module6Assignment\Module6Assignment\obj\Debug\Module6Assignment.pdb

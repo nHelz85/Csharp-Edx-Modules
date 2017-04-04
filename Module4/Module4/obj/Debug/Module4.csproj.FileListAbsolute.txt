@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Module4\Module4\bin\Debug\Module4.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Module4\Module4\bin\Debug\Module4.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Module4\Module4\bin\Debug\Module4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Module4\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Module4\Module4\obj\Debug\Module4.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Module4\Module4\obj\Debug\Module4.pdb

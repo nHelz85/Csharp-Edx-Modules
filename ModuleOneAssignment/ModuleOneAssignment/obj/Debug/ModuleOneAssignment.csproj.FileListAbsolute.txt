@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.pdb
